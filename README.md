@@ -1,5 +1,4 @@
-# Web-Portfolio-Project
-# 🌐 Ayushi Portfolio
+# 🌐Web-Portfolio-Project
 
 This is my personal portfolio website built using HTML and CSS.  
 It showcases my skills, projects, and basic information as a Frontend Developer.
@@ -15,15 +14,11 @@ It showcases my skills, projects, and basic information as a Frontend Developer.
 - HTML5
 - CSS3
 
-## 📸 Preview
-
-![Portfolio Screenshot](Screenshot%202026-03-24%20114427.png)
 ## 📸 Output
-![Portfolio Image](Screenshot%202026-03-24%20114427.png)
 
-### 🌐 Portfolio Website Preview
-
-![Portfolio Screenshot](portfolio.png)
+<p align="center">
+  <img src="Screenshot%202026-03-24%20115530.png" alt="Portfolio Output" width="600">
+</p>
 
 ## 🚀 How to Run
 1. Download or clone the repository
@@ -36,3 +31,5 @@ It showcases my skills, projects, and basic information as a Frontend Developer.
 
 ## 🙋‍♀️ Author
 Ayushi Shukla
+
+## Thank you visiting my portfolio 
